@@ -5,4 +5,25 @@
 ██║██║  ██║██╔══╝  ██║███╗██║██╔══╝
 ██║██████╔╝███████╗╚███╔███╔╝███████╗
 ╚═╝╚═════╝ ╚══════╝ ╚══╝╚══╝ ╚══════╝
+${AnsiColor.BLUE}** ${application.title} ${application.formatted-version} **
+${AnsiColor.GREEN}:: Spring Boot ::       ${spring-boot.formatted-version}
+${AnsiColor.DEFAULT}
 
+
+
+${AnsiColor.BLUE}
+     #&&&                                                                   
+     &&&&&                                                                  
+      #8              ###          ##                                       
+          &&                       ##                                       
+   &&    &&&&&        ##     ##### ##       #####   ##     ##    ###   #####
+  &&&    &&&&&&       ##   ###    ###   ##    ### ###   ###    ##  ##     ##
+8&&&&&   &&&&&&&&     ##   ##      ##  #########   ##  ## ##  ##  ##########
+&&&&&&&  &&&&&&&      ##   ##      ##  ##           ## ##  ####   ###       
+  &&&&&   &&&&&       ##     ###### #   ########     ###   ####    ########
+   &&&&   &&&&                                                              
+     &    #&#                                                               
+          #
+** ${application.title} ${application.formatted-version} **
+${AnsiColor.GREEN}:: Spring Boot ::       ${spring-boot.formatted-version}
+${AnsiColor.DEFAULT}
